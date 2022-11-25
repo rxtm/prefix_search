@@ -1,0 +1,6 @@
+server:
+  port: 8088
+
+#磁盘文件地址(防止数据丢失)
+data:
+  path: D://search_data/data
